@@ -178,15 +178,10 @@ p{
     font-size: 2rem;
     margin: 1rem 0;
 }
-.price{
-    background: url(PanteraVulgarDisplayofPower.jpg) center;
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
-}
+
 
 .contact{
-    padding-top: 20px;
+    padding-top: 300px;
     background: #101010;
     padding-bottom: 0;
 }
