@@ -156,8 +156,27 @@ p{
     font-size: 16px;
 }
 
+.catalogo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
 .about{
     background: #020205;
+}
+
+.about .box i{
+    height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    border-radius: 50%;
+    color:#fff;
+    background: #9c27b0;
+    font-size: 2rem;
+    margin: 1rem 0;
 }
 .price{
     background: url(PanteraVulgarDisplayofPower.jpg) center;
